@@ -1,0 +1,8 @@
+
+¿Se pueden mantener los dos datos?¿Como?
+Si se pueden mantener los dos datos a traves del 
+merge, este fusiona ambos archivos y se mantiene
+ambos datos.
+
+¿Se pueden mantener los dos datos sólo de un ALFA o BETA?¿Como?
+Se puede mantener los datos por separado, haciendo un merge especifico.
